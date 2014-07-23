@@ -3,7 +3,7 @@ Faça um algoritmo para ler um valor a ser sacado em um caixa eletronico, despre
 o caixa possui apenas notas de 50, 20,10,5
 
 sendo
-
+//Quantidade de notas disponíveis no caixa.
 10 notas de 50
 10 notas de 20
 10 notas de 10
